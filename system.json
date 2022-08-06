@@ -1,12 +1,12 @@
 {
-  "name": "dark-heresy",
-  "title": "Dark Heresy 2E",
+  "name": "dark-heresy-exp",
+  "title": "Dark Heresy 2E Experimental",
   "description": "Innocence proves nothing",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "minimumCoreVersion": "0.8.4",
   "compatibleCoreVersion": "9",
   "templateVersion": 2,
-  "author": "JeansenVaars, Moo Man, fredthedeadhead, Perfectro, Vendare, Silver292",
+  "author": "JeansenVaars, Moo Man, fredthedeadhead, Perfectro, Vendare, Silver292, zachnkck, Treehedge",
   "scripts": [],
   "esmodules": [
     "script/common/hooks.js"
