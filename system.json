@@ -85,7 +85,7 @@
   "secondaryTokenAttribute": null,
   "url": "https://github.com/treehedge/DarkHeresy2E-FoundryVTT/tree/experimental",
   "socket": true,
-  "manifest": "https://github.com/treehedge/DarkHeresy2E-FoundryVTT/blob/experimental/system.json",
+  "manifest": "https://raw.githubusercontent.com/treehedge/DarkHeresy2E-FoundryVTT/experimental/system.json",
   "download": "https://github.com/treehedge/DarkHeresy2E-FoundryVTT/archive/refs/heads/experimental.zip",
   "license": "LICENSE.txt"
 }
