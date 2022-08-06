@@ -86,6 +86,6 @@
   "url": "https://github.com/treehedge/DarkHeresy2E-FoundryVTT",
   "socket": true,
   "manifest": "https://raw.githubusercontent.com/treehedge/DarkHeresy2E-FoundryVTT/master/system.json",
-  "download": "https://codeload.github.com/treehedge/DarkHeresy2E-FoundryVTT/zip/refs/heads/master",
+  "download": "https://github.com/treehedge/DarkHeresy2E-FoundryVTT/archive/refs/heads/master.zip",
   "license": "LICENSE.txt"
 }
